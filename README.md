@@ -1,0 +1,1 @@
+Welcome to my cv project, in this project we’ll dive into the intersection of technology ! we’ll look into an exciting journey into the world of image composition using OpenCV, a powerful computer vision library in Python. This blog will be your gateway to mastering the art of seamless image blending.
